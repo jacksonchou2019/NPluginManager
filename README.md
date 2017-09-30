@@ -91,7 +91,7 @@
 
 # 感谢贡献者
 
->感谢为此项目做出贡献的开发者，你们不光完善了这个项目，也为中国开源事业出了一份力，感谢你们！名单[点击这里]()查看。
+>感谢为此项目做出贡献的开发者，你们不光完善了这个项目，也为中国开源事业出了一份力，感谢你们！名单[点击这里](https://github.com/madfrog1982/NPluginManager/blob/master/contributors.md)查看。
 
 ---
 
@@ -119,4 +119,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Detail：[https://github.com/master/license.md](https://github.com/master/license.md)
+Detail：[https://github.com/madfrog1982/NPluginManager/blob/master/license.md](https://github.com/madfrog1982/NPluginManager/blob/master/license.md)
