@@ -1,5 +1,5 @@
 # NPluginManager
-**NPluginManager**基于C#实现的动态加载插件的实现方式及插件状态跟踪监控。
+**NPluginManager**基于C#的动态加载插件的实现方式及插件状态跟踪监控。
 
 >**注意**：本库为.NET 3.5，后续会发布其它.NET版本，请关注各自分支：
 
