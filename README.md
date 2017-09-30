@@ -98,6 +98,9 @@
 # 捐助
 
 >如果这个项目对您有用，我们欢迎各方任何形式的捐助，也包括参与到项目代码更新或意见反馈中来。谢谢！
+>
+![微信支付](https://github.com/madfrog1982/NPluginManager/blob/master/img-folder/wx.jpg)
+![支付宝支付](https://github.com/madfrog1982/NPluginManager/blob/master/img-folder/zfb.jpg)
 
 ---
 
