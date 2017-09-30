@@ -11,3 +11,4 @@ F:\GitHub\NPluginManager\src\NPluginManager\bin\Debug\NPluginManager.dll
 F:\GitHub\NPluginManager\src\NPluginManager\bin\Debug\NPluginManager.pdb
 F:\GitHub\NPluginManager\src\NPluginManager\obj\Debug\NPluginManager.dll
 F:\GitHub\NPluginManager\src\NPluginManager\obj\Debug\NPluginManager.pdb
+F:\GitHub\NPluginManager\src\NPluginManager\obj\Debug\NPluginManager.csprojResolveAssemblyReference.cache
