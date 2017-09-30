@@ -1,0 +1,14 @@
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\bin\Debug\NPluginManager.Test.exe
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\bin\Debug\NPluginManager.Test.pdb
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\bin\Debug\NPluginManager.dll
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\bin\Debug\NPluginManager.pdb
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.exe
+F:\GitHub\NPluginManager\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.pdb
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.exe
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.pdb
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\bin\Debug\NPluginManager.Test.exe
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\bin\Debug\NPluginManager.Test.pdb
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\bin\Debug\NPluginManager.dll
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\bin\Debug\NPluginManager.pdb
+F:\GitHub\NPluginManager\src\Test\NPluginManager.Test\obj\Debug\NPluginManager.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+F:\GitHub\NPluginManager\Test\TestClass2\bin\Debug\TestClass2.dll
+F:\GitHub\NPluginManager\Test\TestClass2\bin\Debug\TestClass2.pdb
+F:\GitHub\NPluginManager\Test\TestClass2\bin\Debug\NPluginManager.dll
+F:\GitHub\NPluginManager\Test\TestClass2\bin\Debug\NPluginManager.pdb
+F:\GitHub\NPluginManager\Test\TestClass2\obj\Debug\TestClass2.csprojResolveAssemblyReference.cache
+F:\GitHub\NPluginManager\Test\TestClass2\obj\Debug\TestClass2.dll
+F:\GitHub\NPluginManager\Test\TestClass2\obj\Debug\TestClass2.pdb
+F:\GitHub\NPluginManager\src\Test\TestClass2\bin\Debug\TestClass2.dll
+F:\GitHub\NPluginManager\src\Test\TestClass2\bin\Debug\TestClass2.pdb
+F:\GitHub\NPluginManager\src\Test\TestClass2\bin\Debug\NPluginManager.dll
+F:\GitHub\NPluginManager\src\Test\TestClass2\bin\Debug\NPluginManager.pdb
+F:\GitHub\NPluginManager\src\Test\TestClass2\obj\Debug\TestClass2.csprojResolveAssemblyReference.cache
+F:\GitHub\NPluginManager\src\Test\TestClass2\obj\Debug\TestClass2.dll
+F:\GitHub\NPluginManager\src\Test\TestClass2\obj\Debug\TestClass2.pdb
